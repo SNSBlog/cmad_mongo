@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.nds</groupId>
-  <artifactId>mongo</artifactId>
+  <artifactId>mongo_blog</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
