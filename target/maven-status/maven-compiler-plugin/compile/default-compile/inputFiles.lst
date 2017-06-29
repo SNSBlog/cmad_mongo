@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/rest/JWTTokenNeededFilter.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/service/BlogComment.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/api/CommentInterface.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/api/Comments.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/api/PostInterface.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/service/BlogPosts.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/api/UserInterface.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/data/PostDAOInterface.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/rest/JWTTokenNeeded.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/api/Posts.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/data/MongoConnection.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/data/UserDAO.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/data/UserDAOInterface.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/data/CommentDAO.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/rest/BlogApplication.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/api/User.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/rest/Controller.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/service/BlogUsers.java
-/Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/data/PostDAO.java
-=======
 /var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/data/PostDAO.java
 /var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/service/BlogComment.java
 /var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/data/UserDAOInterface.java
@@ -38,4 +17,3 @@
 /var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/api/Comments.java
 /var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/rest/JWTTokenNeeded.java
 /var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/api/Posts.java
->>>>>>> f13c3bad44481aba67988fd65593c5006ef624de
