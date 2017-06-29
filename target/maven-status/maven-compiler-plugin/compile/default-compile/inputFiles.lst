@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/rest/JWTTokenNeededFilter.java
 /Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/service/BlogComment.java
 /Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/api/CommentInterface.java
@@ -18,24 +17,3 @@
 /Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/rest/Controller.java
 /Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/service/BlogUsers.java
 /Users/shmaity/TrainingMaterials/AppDevTraining/cmad_mongo/src/main/java/com/nds/mongo/data/PostDAO.java
-=======
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/data/PostDAO.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/service/BlogComment.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/data/UserDAOInterface.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/rest/JWTTokenNeededFilter.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/api/CommentInterface.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/api/User.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/rest/Controller.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/data/UserDAO.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/api/UserInterface.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/service/BlogUsers.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/data/MongoConnection.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/api/PostInterface.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/data/PostDAOInterface.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/service/BlogPosts.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/data/CommentDAO.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/rest/BlogApplication.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/api/Comments.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/rest/JWTTokenNeeded.java
-/var/jenkins_home/workspace/cmad_mongo_package/src/main/java/com/nds/mongo/api/Posts.java
->>>>>>> 014a2dd9d27b9ff15c82cf495ee02e7109b197f2
